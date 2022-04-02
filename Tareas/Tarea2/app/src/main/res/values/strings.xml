@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="textWiev">Aplicacion para registrar a un nuevo usuario al sistema.</string>
+    <string name="textWiev2">Se ha registrado el nuevo usuario al sistema.</string>
+    <string name="boton">Registrar</string>
+    <string name="boton2">Regresar y registrar nuevo</string>
+    <string name="editText">Nombre</string>
+    <string name="radioBoton">Masculino</string>
+    <string name="radioBoton2">Femenino</string>.
+    <string name="email">Email</string>
+    <string name="edad">Edad</string>
+    <string name="telefono">Numero de celular</string>
+</resources>
