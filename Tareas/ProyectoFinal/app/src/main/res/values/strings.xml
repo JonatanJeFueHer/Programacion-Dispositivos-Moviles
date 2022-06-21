@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="textWiev">Aplicacion para administrar a los usuarios del sistema.</string>
+    <string name="textWiev2">Se ha registrado el nuevo usuario al sistema.</string>
+    <string name="boton1">Registrar</string>
+    <string name="boton2">Regresar y registrar nuevo</string>
+    <string name="boton3">Buscar</string>
+    <string name="boton4">Eliminar</string>
+    <string name="boton5">Mostrar Registros</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="edad">Edad</string>
+    <string name="telefono">Numero de celular</string>
+    <string name="ajustes">Buscar usuario</string>
+    <string name="compartir">Buscar usuario</string>
+    <string name="item1">Buscar usuario</string>
+    <string name="item2">Eliminar usuario</string>
+    <string name="item3">Numero de usuarios en el sistema</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
